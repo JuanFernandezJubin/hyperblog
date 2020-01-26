@@ -3,9 +3,27 @@ body
     color: rebeccapurple;
     text-align: left;
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 16px;
+    font-size: 20px;
     margin: 0;
     padding: 0;
+}
+#cabecera
+{
+    background: purple; 
+    color: white;
+    margin: 0;
+    box-shadow: 0px 2px 30px 0px rgba(0, 0, 0, 0.5);
+    font-weight: bold;
+    padding: 0.5;
+
+}
+#cabecera #tagline
+{
+    color: skyblue;
+    font-size: 15px;
+    padding:  0 0 0 1em;
+    font-weight: bold;
+    font-size: 0.8px;
 }
 #container
 {
@@ -18,5 +36,5 @@ body
 }
 #container h1
 {
-    font-size: 20px;
+    font-size: 25px;
 }
