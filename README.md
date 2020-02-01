@@ -7,5 +7,6 @@ Un Blog de practica para el curso de Git & GitHub de Platzi.
 * El flujo de trabajo en GitHub
 * El verdadero amor por las buenas practicas
 * Etc
+* El equipo de platzi 
 
 Y como nota final este blog es SIMPLE PRACTICA y seguramente sera destruido,editado,renombrado, etc... proband hipervínculos : [repositorio](https://github.com/JuanFernandezJubin/EscuelaWeb/blob/master/appsettings.json).  
